@@ -1,6 +1,5 @@
-//dont deploy this API key or upload onto GitHub
 
-const API_KEY = "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"
+const API_KEY = "Can't show this to the public sorry"
 const submitIcon = document.querySelector("#submit-icon")
 const inputElement = document.querySelector("input")
 const imageSection = document.querySelector(".images-section")
